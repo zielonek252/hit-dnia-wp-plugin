@@ -1,0 +1,38 @@
+.daily-deal {
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #f9f9f9;
+	text-align: center;
+}
+
+.daily-deal h2 {
+	margin-top: 0;
+	font-size: 24px;
+	color: #333;
+}
+
+.daily-deal img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
+
+.daily-deal p {
+	margin: 10px 0;
+	font-size: 16px;
+	color: #888;
+}
+
+.daily-deal a {
+	display: inline-block;
+	margin-top: 10px;
+	padding: 10px 15px;
+	background-color: #333;
+	color: #fff;
+	text-decoration: none;
+}
+
+.daily-deal a:hover {
+	background-color: #666;
+}
